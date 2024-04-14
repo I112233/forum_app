@@ -38,4 +38,4 @@ to make this app work you need a few dependencies!
 - **Database:** MongoDB
 - **Real-time Chat:** Socket.io
 - **Authentication:** JWT
-
+- **Calendly:** Third party API 
